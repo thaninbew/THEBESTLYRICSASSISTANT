@@ -1,0 +1,6 @@
+flask[async]
+flask-cors
+requests
+beautifulsoup4
+openai>=1.0.0
+python-dotenv
